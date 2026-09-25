@@ -1,0 +1,25 @@
+# Build products and generated icon assets
+.build/
+dist/
+*.app/
+*.dSYM/
+*.icns
+*.iconset/
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local credentials, signing files and personal learning data
+.env
+.env.*
+*.p12
+*.p8
+*.key
+*.mobileprovision
+settings.json
+subtitles.json
+notes.json
+*.log
+.idea/
+.vscode/

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleName</key><string>Kotoba</string>
+  <key>CFBundleDisplayName</key><string>Kotoba 日语伴学</string>
+  <key>CFBundleIdentifier</key><string>local.kotoba.learning</string>
+  <key>CFBundleExecutable</key><string>Kotoba</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.1.3</string>
+  <key>CFBundleVersion</key><string>5</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>LSMinimumSystemVersion</key><string>26.0</string>
+  <key>LSUIElement</key><true/>
+  <key>NSPrincipalClass</key><string>NSApplication</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSSpeechRecognitionUsageDescription</key><string>把你选择的浏览器声音识别为日语字幕。默认仅在设备端识别；可在设置中允许 Apple 在线识别。</string>
+  <key>NSAudioCaptureUsageDescription</key><string>仅在你点击开始聆听后采集所选应用的声音，用于生成字幕。不保存音频或视频。</string>
+</dict></plist>
